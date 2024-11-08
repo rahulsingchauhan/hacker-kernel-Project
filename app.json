@@ -18,11 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.rahul.hacker_kernel"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "this is the test project."
+    "description": "this is the test project.",
+    "extra": {
+      "eas": {
+        "projectId": "e0a862b6-75e9-4c4a-9448-fe3daaa79c17"
+      }
+    }
   }
 }
